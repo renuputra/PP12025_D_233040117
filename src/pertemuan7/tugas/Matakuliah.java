@@ -1,4 +1,4 @@
-package pertemuan7;
+package pertemuan7.tugas;
 
 public class Matakuliah {
     private String kode;

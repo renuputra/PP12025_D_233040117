@@ -1,8 +1,7 @@
 package pertemuan9;
 
 public class QueueMain {
-
-	public static void main(String[] args) {
+    public static void main(String[] args) {
         StrukturQueue queue = new StrukturQueue();
 
         System.out.println("### Sebelum Enqueue ###");
